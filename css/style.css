@@ -166,6 +166,15 @@ header {
 	padding: 4px 14px;
 }
 
+.banner-text-w3-agileits.cn p {
+	color: #47cf73;
+	font-size: 1em;
+	letter-spacing: 10px;
+	font-weight: 400;
+	background: rgba(0, 0, 0, 0.32);
+	padding: 4px 14px;
+}
+
 .botton a {
 	text-decoration: none;
 	color: #fff;
